@@ -1,4 +1,4 @@
-FROM centos
+FROM ubuntu20-04
 MAINTAINER  Jehan Monnier <jehan.monnier@linphone.org>
 
 # Prepare the Belledonne's repository
